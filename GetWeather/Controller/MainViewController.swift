@@ -14,8 +14,8 @@ import SwiftyJSON
 class MainViewController: UIViewController, CLLocationManagerDelegate , ChangeCityDeligete{
     
     //Decleare Constant
-    let WEATHER_URL = "http://api.openweathermap.org/data/2.5/forecast?"
-    let APP_ID = "f000cf0ff23c2a6a040ef9c61b7ceac0"
+    let WEATHER_URL = ""
+    let APP_ID = ""
     
     //TODO: Declare instance variables here
     let locationManager = CLLocationManager()
